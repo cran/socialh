@@ -1,0 +1,17 @@
+cf1a177975e21700672d9b7d25df29c6 *DESCRIPTION
+9683a3a5d080e6ea4ecfd1f17bae0449 *NAMESPACE
+ee219171c7e3edf17c62bd380bc9f240 *R/dominance_value.R
+35dc5de4925cd609e60d92ace9c394c9 *R/indexes.R
+110818fa128f72b41f4c4e75adc05662 *R/matrices.R
+6df5142de523567232517f3af5204796 *R/replacement.R
+ddaf642a7904a7aeaea2d0140d96d434 *build/vignette.rds
+e8c98e39c7a9fcb4b53cb90eb37e61cc *inst/doc/README.R
+48b601db53eaf5e76cfb4c61352cf92e *inst/doc/README.Rmd
+000d004942174ceb3df27ba090f5bf05 *inst/doc/README.html
+5ca0d5261764a53befa5ed1edf458bfc *man/dmatrix.Rd
+a837f340416d198a3d4b8c4e1f7e9b82 *man/dvalue.Rd
+efe3ebdaf85054b67a928372681ec6a0 *man/improved_index.Rd
+4aa9008d977861d7224ea0a1b945f7e5 *man/landau_index.Rd
+07049337445e8cb2cf46b5359b0febf4 *man/replacement.Rd
+f02387a3a3b11ff1a64a8066cf88a87b *man/smatrix.Rd
+48b601db53eaf5e76cfb4c61352cf92e *vignettes/README.Rmd
