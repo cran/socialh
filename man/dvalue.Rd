@@ -10,7 +10,7 @@ dvalue(dmatrix)
 \item{dmatrix}{Sij dyadic relationship matrix}
 }
 \value{
-rank and social dominance
+dominance value, social rank and social hierarchy
 }
 \description{
 Function to obtain the dominance value, social rank and hierarchy
@@ -20,7 +20,7 @@ from Sij dyadic relationship matrix.
 The social categories (rank and hierarchy) are define according to dominance value and
 is obtained by the following expression: SH =(|Distance between highest(+ X) and lowest(- Y) dominance value| + 1)
 /(2 or 3), where "SH" is the rank or hierarchy. The rank (high and lower) and social
-category (dominant, intermediate and subordinate)are determined assigned according to
+category (dominant, intermediate and subordinate) are determined assigned according to
 dominance value. The choice for divide the group by rank or social category depends of
 the study objective. Both rank and social category are estimated by the distance between
 the highest (+ X) and the lowest (- Y) dominance value, plus 1 (corresponds to the dominance

@@ -1,0 +1,1 @@
+globalVariables(c("actor", "freq_actor", "reactor", "freq_reactor", "replacements", "CELL_META", "bp"))
